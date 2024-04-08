@@ -13,7 +13,7 @@ Parking PHP
 
 После установки переходим в путь установки OSPanel и переходимв папку "domain".
 
-Сюда помещаем содержимое архива [contents of this repository](https://github.com/TiendaNube/sample-php-app/archive/master.zip), а затем открываем консоль и прописываем команду:
+Сюда помещаем содержимое архива последней версии, а затем открываем консоль и прописываем команду:
 
 ```
 composer install
