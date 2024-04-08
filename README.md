@@ -41,5 +41,5 @@ composer install
 
 Результат
 -------------
-Вы развернули на локальном сервере сайт "php-front" используя OSPanel.
+Вы развернули на локальном сервере сайт "Parking_php" используя OSPanel.
 ![image](https://github.com/PP-ProxyBot/php-front/assets/112633902/542be459-eef3-44d8-a128-172d4a39a059)
