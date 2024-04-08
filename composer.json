@@ -1,0 +1,17 @@
+{
+    "name": "dimulek/php-front",
+    "description": "Project for admin of telegram proxy bot",
+    "authors": [
+        {
+            "name": "Dimulek"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "classmap": [
+            "Models/Mapper"
+        ]
+    }
+}
